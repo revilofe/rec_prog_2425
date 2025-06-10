@@ -1,0 +1,31 @@
+id	nombre	calorias	esVegana	ingredientes(coma_sep)
+1	Ensalada Mediterránea	507	True	78 g ensalada,cebolla,aceite de oliva
+2	Arroz Integral con Verduras	294	False	85 g arroz,sal,ajo,cebolla,aceite de oliva
+3	Quinoa al Curry	196	True	57 g quinoa,pimienta,cebolla
+4	Tortilla de Espinacas	467	False	100 g tortilla,cebolla,ajo,agua,sal
+5	Sopa de Lentejas	481	False	121 g sopa,pimienta,agua
+6	Gazpacho Andaluz	322	True	89 g gazpacho,aceite de oliva,sal
+7	Buddha Bowl	374	True	74 g buddha,aceite de oliva,ajo,cebolla
+8	Pasta Integral con Tomate	553	False	167 g pasta,sal,agua,cebolla,aceite de oliva
+9	Hamburguesa Vegana	604	True	210 g hamburguesa,aceite de oliva,ajo,pimienta,cebolla
+10	Smoothie Verde	203	True	219 g smoothie,aceite de oliva,sal
+11	Crema de Calabaza	623	True	75 g crema,aceite de oliva,agua,cebolla
+12	Tofu a la Plancha	369	True	140 g tofu,cebolla,aceite de oliva
+13	Ensalada César Light	491	True	212 g ensalada,ajo,pimienta
+14	Tabulé de Coliflor	416	False	147 g tabulé,cebolla,ajo,pimienta
+15	Curry de Garbanzos	611	False	246 g curry,pimienta,sal
+16	Wrap de Hummus	385	False	118 g wrap,pimienta,ajo
+17	Pizza de Berenjena	288	False	217 g pizza,agua,cebolla,pimienta
+18	Patatas Asadas con Romero	251	False	113 g patatas,ajo,cebolla,aceite de oliva,agua
+19	Salteado de Setas	639	False	199 g salteado,aceite de oliva,pimienta,ajo
+20	Tacos de Jackfruit	226	True	243 g tacos,sal,pimienta
+21	Risotto de Champiñones	585	False	224 g risotto,ajo,sal,agua
+22	Falafel al Horno	485	True	169 g falafel,aceite de oliva,ajo,sal,cebolla
+23	Poke Bowl de Quinoa	529	False	276 g poke,aceite de oliva,cebolla,sal,pimienta
+24	Chili Sin Carne	260	True	166 g chili,cebolla,aceite de oliva
+25	Muffins de Avena	439	True	283 g muffins,cebolla,aceite de oliva
+26	Granola Casera	258	True	145 g granola,ajo,cebolla
+27	Porridge de Manzana	486	False	132 g porridge,sal,cebolla,aceite de oliva
+28	Barritas Energéticas	302	True	64 g barritas,ajo,sal
+29	Batido de Plátano y Cacao	554	True	174 g batido,ajo,pimienta
+30	Helado de Mango	517	True	171 g helado,pimienta,aceite de oliva,agua,sal
