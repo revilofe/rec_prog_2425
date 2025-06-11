@@ -1,0 +1,32 @@
+id	nombre	calorias	ingredientes	esVegana	tipo	categoriaMenu	esFrio	momento	esDulce
+1	Ensalada Quinoa Citrus	320	quinoa,naranja,espinacas,almendras,aceite oliva	true	Ensalada	Entrante	true	.	.
+2	Sopa Thai Coco	450	leche coco,setas,lemongrass,jengibre,lima	false	Sopa	Entrante	false	.	.
+3	Batido Verde Detox	210	espinacas,plátano,pepino,agua de coco	true	Bebida	Entrante	true	.	.
+4	Tacos de Jackfruit	380	jackfruit,maíz,tomate,cilantro,cebolla	true	Plato principal	Principal	.	COMIDA	.
+5	Pasta Integral Pesto	540	pasta integral,albahaca,piñones,ajo,aceite oliva	false	Plato principal	Principal	.	CENA	.
+6	Barritas Avena Cacao	260	avena,dátiles,cacao,nueces,sirope arce	true	Snack	Postre	.	.	true
+7	Curry Garbanzos	480	garbanzos,tomate,leche coco,espinacas,masala	true	Plato principal	Principal	.	AMBOS	.
+8	Smoothie Frutos Rojos	190	arándanos,fresas,frambuesas,leche avena	true	Bebida	Entrante	true	.	.
+9	Lasaña Berenjena	520	berenjena,salsa tomate,queso ricotta,albahaca,pimienta	false	Plato principal	Principal	.	COMIDA	.
+10	Hummus Clásico	250	garbanzos,sésamo,limón,ajo,aceite oliva	true	Entrante	Entrante	true	.	.
+11	Ensalada César Light	340	lechuga,pollo a la plancha,croutons,yogur,parmesano	false	Ensalada	Entrante	true	.	.
+12	Sopa Miso	120	pasta miso,tofu,alga wakame,cebollino,dashi	true	Sopa	Entrante	false	.	.
+13	Tostadas Aguacate	300	aguacate,pan integral,limón,chile copos,cilantro	true	Desayuno	Entrante	true	.	.
+14	Pollo Teriyaki	560	pechuga pollo,salsa soja,miel,ajo,jengibre	false	Plato principal	Principal	.	CENA	.
+15	Poke Bowl Salmón	610	arroz sushi,salmón,edamame,aguacate,pepino	false	Plato único	Principal	.	COMIDA	.
+16	Galletas Avena Manzana	230	avena,manzana,canela,huevo,miel	false	Postre	Postre	.	.	true
+17	Chili Vegano	500	alubias rojas,tomate,pimiento,chile,jalapeño	true	Plato principal	Principal	.	AMBOS	.
+18	Smoothie Mango Cúrcuma	200	mango,plátano,leche coco,cúrcuma,jengibre	true	Bebida	Entrante	true	.	.
+19	Risotto Setas	580	arroz arborio,setas,caldo verduras,parmesano,cebolla	false	Plato principal	Principal	.	COMIDA	.
+20	Wrap Falafel	450	falafel,tortilla trigo,lechuga,tahini,tomate	true	Plato único	Principal	.	AMBOS	.
+21	Yogur con Granola	260	yogur griego,granola,miel,arándanos,chia	false	Desayuno	Postre	.	.	true
+22	Sopa Lentejas Rápida	390	lentejas,zanahoria,apio,tomate,comino	true	Sopa	Entrante	false	.	.
+23	Ensalada de Garbanzos	330	garbanzos,pepino,pimiento rojo,aceite oliva,limón	true	Ensalada	Entrante	true	.	.
+24	Hamburguesa Pavo	610	carne pavo,pan integral,lechuga,tomate,mostaza	false	Plato principal	Principal	.	CENA	.
+25	Pan de Plátano Fit	270	plátano,harina avena,huevo,canela,nueces	false	Postre	Postre	.	.	true
+26	Sushi Vegano	420	arroz sushi,pepino,aguacate,zanahoria,alga nori	true	Plato único	Principal	.	AMBOS	.
+27	Crema Calabaza	310	calabaza,patata,cebolla,caldo verduras,nuez moscada	true	Sopa	Entrante	false	.	.
+28	Ceviche de Tofu	350	tofu,lima,cilantro,cebolla morada,maíz	true	Entrante	Entrante	true	.	.
+29	Pizza Integral Verduras	650	base integral,tomate,calabacín,pimiento,queso mozzarella	false	Plato principal	Principal	.	COMIDA	.
+30	Barrita Energética Frutos Secos	240	dátiles,avellanas,almendras,arándanos,sirope agave	true	Snack	Postre	.	.	true
+```
