@@ -53,7 +53,6 @@ Ten en cuenta lo siguiente:
 * [Ejercicio 7](7.md) - Criterio 10: **Evalúa RA7** | POO Avanzada con Herencia e Interfaces en Kotlin
 * [Ejercicio 8](8.md) - Criterio 11: **Evalúa RA9** | Acceso a Datos con DAO usando Kotlin
 
-* 
 
 
 ---
