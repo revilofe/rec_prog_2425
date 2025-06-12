@@ -126,3 +126,6 @@ A continuación tienes un ejemplo de cómo debe quedar el README.md de tu proyec
 ## Ejercicio 3:
 
 [...]
+
+## Uso rapido
+Ejecuta `./gradlew run` para lanzar el menu de recetas.
